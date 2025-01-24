@@ -1,8 +1,8 @@
 ﻿# Bistro_Bliss
  Restaurant Management System 
- DEVELOPED BY: Shreya Bharti (IIT2021067) Ekeshwar Aditya (IIT2021052)
  
- Hosted website link : https://bistrobliss.000webhostapp.com/index.php
+ 
+
 
  Description:
 
